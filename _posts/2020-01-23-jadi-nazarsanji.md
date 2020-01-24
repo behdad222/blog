@@ -11,3 +11,12 @@ rating: '1'
 در ابتدا ببینید در طول ۴ دوره قبلی نظر سنجی چه تغییراتی رخ داده و چه روندهایی رو میشه توش دید
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=144308191&amp;format=interactive"></iframe>
+
+
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1463957288&amp;format=interactive"></iframe>
+بیشترین بازه سنی بین ۲۳-۲۹ سال هست که همواره نزولی بوده و کم سن‌ترها بیشتر شدن.
+
+<iframe width="600" height="385" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=820160384&amp;format=interactive"></iframe>
+
+تعداد زنان همیشه افزایشی بوده اما همچنان زیر ۱۰ درصد هستند.
