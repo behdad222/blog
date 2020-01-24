@@ -1,8 +1,8 @@
 # See https://jekyllrb.com/docs/configuration/default/
-title: "روزنوشت‌های من"
-motto: "می‌نویسم پس هستم"
-author: Mehdi Sadeghi
-email: sadeghi@mehdix.org
+title: "بلاگ تستی"
+motto: ""
+author: ‌‌‌Behdad Abedi
+email: behdad.222@gmail.com
 
 # the base hostname & protocol for your site without trailing slash
 url: https://mystifying-benz-938b25.netlify.com
@@ -14,13 +14,7 @@ copyright: "Commons Attribution 4.0 International"
 
 # A one liner that describes your blog
 description: > # this means to ignore newlines
-  سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام.
-
-# Tell more about your blog here
-long_description: >
-  بچه که بودیم همیشه برای بازی خونه می‌ساختیم. حالا هم نمونه‌اش رو در وب ساختم.
-  اینجا سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام است،
-  بویژه راه‌حل‌های مهندسی که باعث رشد و پیشرفتم شده است و می‌تواند مورد استفاده دیگران هم قرار بگیرد.
+  بلاگی برای انتشار پست‌های تستی
 
 # The tiny icon of the website
 favicon: assets/img/favicon.png
@@ -64,9 +58,9 @@ lang: fa_IR
 
 # Footer stuff
 twitter:
-  username: mehdisadeghii
+  username: behdad222
 github:
-  username: mehdisadeghi
+  username: behdad222
   repository: jekyll-theme-mehdix-rtl
 
 # Footer logo will disappear if not set.
