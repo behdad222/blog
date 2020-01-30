@@ -50,6 +50,8 @@ rating: '1'
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1182020584&amp;format=interactive"></iframe>
 
+سوالاتی که گزینه‌هاش بین ستاره قرار داره چند انتخابی بودند.  
+
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1728632118&amp;format=interactive"></iframe>
 
 در سال ۹۷ حدود ۱۳۵ نفر بیش از یک مدرک دارند.  
@@ -77,6 +79,7 @@ rating: '1'
 
 <iframe width="1400" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&amp;format=interactive"></iframe>
 
+این نمودار زبان‌های مورد علاقست که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&format=interactive) کلش رو ببینید.  
 
 <iframe width="706.5" height="436.85143500000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=791235232&amp;format=interactive"></iframe>
 
