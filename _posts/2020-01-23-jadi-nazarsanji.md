@@ -227,10 +227,22 @@ rating: '1'
 شهرهای زیر ۱۰۰ نفر تو نمودار بالا حذف شدند.  
 نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=174637039&format=interactive) ببینید.
 
+<iframe width="524" height="331.5229999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=57939018&amp;format=interactive"></iframe>
 
+نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1881044316&format=interactive) ببینید.
 
+<iframe width="523" height="331.5229999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=525668708&amp;format=interactive"></iframe>
 
-  
+نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=268040406&format=interactive) ببینید.  
+واضحه که سطح درآمد تو تهران با اختلاف بیشتره ولی آیا به کسانی که تهرانی نیستند ولی تو تهران کار میکنند حقوق کمتری پرداخت میشه؟
+
+<iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1930473743&amp;format=interactive"></iframe>
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=317489320&amp;format=interactive"></iframe>
+
+کسانی که در حال تحصیل هستند به وضوح حقوق کمتری میگیرند. ممکنه به کار تمام وقت هم ربط داشته باشه.  
+دیپلمه‌ها بعد از دکترها بالاترین حقوق رو میگیرند.
+
     
 ..  
 .  
@@ -240,3 +252,5 @@ rating: '1'
 .
 .
 یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالا به درستی نظر سنجی رو پر نکردند و خطا رو بالا میبرند. که انجام نشده.
+
+برخی از این نمودارها ممکنه باعث گمراهی بشه. باید حواسمون باشه نمودارها الزاما راست نمیگند. به طور مثال با افزایش سن، سابقه کار و تحصیلات حقوق بالا میره. ولی آیا همشون به صورت مستقیم تاثیر گذار هستند؟ یا بعضی کلا تو حقوق تاثیری ندارند. در صورتی که که جامعه آماری به اندازه کافی بزرگ باشه میشه این موارد رو بررسی کرد.
