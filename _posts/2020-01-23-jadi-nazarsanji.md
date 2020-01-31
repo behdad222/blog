@@ -61,6 +61,8 @@ rating: '1'
 
 <iframe width="523.577" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1517887142&amp;format=interactive"></iframe>
 
+برخی سوالات از سال اول نبودند مثل این سوال که از سال ۹۶ اضافه شده.
+
 <iframe width="523.577" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1148432485&amp;format=interactive"></iframe>
 
 <iframe width="523.577" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=513748302&amp;format=interactive"></iframe>
@@ -99,4 +101,28 @@ rating: '1'
 
 <iframe width="523.5769999999999" height="441.0908995738703" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=832762544&amp;format=interactive"></iframe>
 
+گزینه‌هایی که کامل مشخص نیست: محصولات جت برین، ادیتورهای متن ساده (نوت پد پلاس پلاس، جی ادیت)، محصولات اکلیپس، محصولات ادوبی اعم از دریم‌ویور، برنامه نویسی نمی کنم
+
 <iframe width="523.577" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1769782553&amp;format=interactive"></iframe>
+
+<iframe width="523.5769999999999" height="333.509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1156741810&amp;format=interactive"></iframe>
+
+<iframe width="523.5769999999999" height="362" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=881203710&amp;format=interactive"></iframe>
+
+<iframe width="523.577" height="383.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1194553463&amp;format=interactive"></iframe>
+
+گزینه‌هایی که مشخص نیست:‌ تلگرام برای کنترل پروژه، ابزارهای مدیریت پروژه مایکروسافت، ابزارهای مدیریت پروژه اتلسین.  
+از تلگرام برای مدیریت پروژه استفاده میشه! بیشتر از چیزی مثل جیرا!  
+از ابزارهای مایکروسافت بیشتر از اتلسین استفاده میشه.  
+
+<iframe width="523" height="340" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1709157163&amp;format=interactive"></iframe>
+
+<iframe width="523" height="373.45453775027596" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=4527275&amp;format=interactive"></iframe>
+
+از سال ۹۶ به بعد چای تبدیل شده به چای سبز و سیاه.
+
+<iframe width="523.0000000000001" height="411" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1611537923&amp;format=interactive"></iframe>
+
+لباس روحانیت جزو گزینه‌ها نبود ولی یک نفر دستی نوشته بود و بنظرم باید اضافه شه.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=88093203&amp;format=interactive"></iframe>
