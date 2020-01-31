@@ -74,7 +74,7 @@ rating: '1'
 
 این نمودار زبان‌های مورد استفادست که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&format=interactive) کلش رو ببینید.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
-به نظر میرسه حدود ۶ درصد اندروید دولوپر از جاوا رفتند سمت کاتلین.  
+بخش زیادی از اقبال به کاتلین به خاطر ساپورت رسمی اندروید ازش هست.  
 
 <iframe width="523.5769999999999" height="321.509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2078216095&amp;format=interactive"></iframe>
 
@@ -131,7 +131,7 @@ rating: '1'
 
 گزینه‌هایی که مشخص نیست:‌ تلگرام برای کنترل پروژه، ابزارهای مدیریت پروژه مایکروسافت، ابزارهای مدیریت پروژه اتلسین.  
 از تلگرام برای مدیریت پروژه استفاده میشه! بیشتر از چیزی مثل جیرا!  
-از ابزارهای مایکروسافت بیشتر از اتلسین استفاده میشه.  
+ابزارهای مایکروسافت بیشتر از اتلسین استفاده میشه.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
 
 <iframe width="523" height="340" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1709157163&amp;format=interactive"></iframe>
@@ -182,6 +182,7 @@ rating: '1'
 
 <iframe width="523" height="341.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2097405605&amp;format=interactive"></iframe>
 
+سال ۹۵ به بعد بالای ۱۰ به بالای ۱۳ و ۱۰ تا ۱۳ تقسیم شده.  
 درآمد‌های زیر ۳.۵ همواره نزولی بودند.  
 
 <iframe width="523.0000000000001" height="406.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=318042926&amp;format=interactive"></iframe>
@@ -194,3 +195,48 @@ rating: '1'
 <iframe width="523" height="321" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1360294074&amp;format=interactive"></iframe>
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1251168981&amp;format=interactive"></iframe>
+
+
+### تاثیر عوامل مختلف رو حقوق
+پس از بررسی روندها تو ۴ دوره گذشته سعی میکنیم نمودارهای ترکیبی درست کنیم و تاثیر پارامترهای مختلف، رو هم رو ببینیم.  
+از اونجا که تعداد پارامترها زیاده اون‌هایی که مهم نیست رو فیلتر میکنم.  
+ابتدا تاثیر پارمترها رو حقوق رو میبینیم.  
+تغریبا ترکیب همه پارمترها رو حقوق رو میتونید تو گوگل درایو ببینید ولی تو این بلاگ پست خوب‌هاش رو گل چین میکنم.  
+معمولا نمودارهای حقوق رو بر طبق ۲ بازه مرطب کردم، حقوق‌های بالای ۷ و حقوق‌های زیر ۳.۵ میلیون تومن.  
+نمودار رو به شکل‌های مختلفی کشیدم، به نظرم این مدل که میبینید از همه واضح‌تر هست.  
+اصطلاح علمیش نمیدونم چیه، هر سطون رو کشیدم تا به ۱۰۰ درصد برسه. در نتیجه هر رنگ تو هر سطون درصد همون بازه رو نشون میده.  
+واضح‌تر میگم، تو نمودار زیر، ۱۱ درصد افراد با سن ۵۰ به بالا، حقوق ۱۳ به بالا میگیرند، که با رنگ سبز پر رنگ تو ستون ۵۰ به بالا نشون داده شده.
+
+<iframe width="523" height="325.27272863230417" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1971513538&amp;format=interactive"></iframe>
+
+بیش از ۵ درصد افراد زیر ۱۸ سال بالای ۷ میلیون درآمد دارند. این میزان برای افراد ۱۸ تا ۲۲ سال به ۲ درصد نمیرسه.  
+معمولا با افزایش سن درآمد بیشتر میشه.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1624073647&amp;format=interactive"></iframe>
+
+دیگر و علاقه‌مند به ذکر نیستم به خاطر کم بودنشون تو نمودار اورده نشده.  
+سهم زنان در حقوق‌های بالاتر کمتر از مردانه. این یک مقدار مشکوک به وجود تبعیض جنسیتی هست که جلوتر بررسی میکنیم.
+
+<iframe width="523" height="342.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1016442848&amp;format=interactive"></iframe>
+
+شهرهای زیر ۱۰۰ نفر تو نمودار بالا حذف شدند.  
+نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=817637768&format=interactive) ببینید.
+
+<iframe width="523.0000000000001" height="342.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=955332058&amp;format=interactive"></iframe>
+
+شهرهای زیر ۱۰۰ نفر تو نمودار بالا حذف شدند.  
+نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=174637039&format=interactive) ببینید.
+
+
+
+
+  
+    
+..  
+.  
+.        
+.        
+.          
+.
+.
+یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالا به درستی نظر سنجی رو پر نکردند و خطا رو بالا میبرند. که انجام نشده.
