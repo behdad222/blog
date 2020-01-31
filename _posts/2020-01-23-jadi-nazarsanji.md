@@ -10,14 +10,15 @@ rating: '1'
 ### تغییرات در طول ۴ سال گذشته
 در ابتدا ببینید در طول ۴ دوره قبلی نظر سنجی چه تغییراتی رخ داده و چه روندهایی رو میشه توش دید
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=144308191&amp;format=interactive"></iframe>
+<iframe width="523.5769999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=144308191&amp;format=interactive"></iframe>
 
+سال ۹۷ دوبرابر سال ۹۶ تو نظرسنجی شرکت کننده داشتیم.
 
+<iframe width="523.5769999999998" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1463957288&amp;format=interactive"></iframe>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1463957288&amp;format=interactive"></iframe>
 بیشترین بازه سنی بین ۲۳-۲۹ سال هست که همواره نزولی بوده و کم سن‌ترها بیشتر شدن.
 
-<iframe width="600" height="385" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=820160384&amp;format=interactive"></iframe>
+<iframe width="523.577" height="385" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=820160384&amp;format=interactive"></iframe>
 
 تعداد زنان همیشه افزایشی بوده اما همچنان زیر ۱۰ درصد هستند.
 
@@ -37,22 +38,21 @@ rating: '1'
 حدود ۵۵ درصد در تهران کار میکنند اما تهرانی‌ها ۳۶ درصد بودند. اگر کسی بتونه نرخ مهاجرت رو در بیاره خوب میشه.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1673593820&amp;format=interactive"></iframe>
+<iframe width="523.5769999999998" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1673593820&amp;format=interactive"></iframe>
 
-
-<iframe width="705.5" height="454" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1991957059&amp;format=interactive"></iframe>
+<iframe width="523.577" height="386.012" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1991957059&amp;format=interactive"></iframe>
 
 تاثیر کاهش سن رو اینجا هم میشه دید.  
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=867948471&amp;format=interactive"></iframe>
+<iframe width="523.5769999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=867948471&amp;format=interactive"></iframe>
 
 به نظر میرسه فریلنسری و ریموت داره بیشتر میشه.
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1182020584&amp;format=interactive"></iframe>
+<iframe width="523.5769999999998" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1182020584&amp;format=interactive"></iframe>
 
 سوالاتی که گزینه‌هاش بین ستاره قرار داره چند انتخابی بودند.  
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1728632118&amp;format=interactive"></iframe>
+<iframe width="523.5769999999998" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1728632118&amp;format=interactive"></iframe>
 
 در سال ۹۷ حدود ۱۳۵ نفر بیش از یک مدرک دارند.  
 یه سری نوشتند هیچی اینا هم جزو مدرک داران حساب میشند.  
