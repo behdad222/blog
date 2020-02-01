@@ -203,18 +203,22 @@ rating: '1'
 ابتدا تاثیر پارمترها رو حقوق رو میبینیم.  
 تغریبا ترکیب همه پارمترها رو حقوق رو میتونید تو گوگل درایو ببینید ولی تو این بلاگ پست خوب‌هاش رو گل چین میکنم.  
 معمولا نمودارهای حقوق رو بر طبق ۲ بازه مرطب کردم، حقوق‌های بالای ۷ و حقوق‌های زیر ۳.۵ میلیون تومن.  
-نمودار رو به شکل‌های مختلفی کشیدم، به نظرم این مدل که میبینید از همه واضح‌تر هست.  
+نمودار رو به شکل‌های مختلفی تست کردم، به نظرم این مدل که میبینید از همه واضح‌تر هست.  
 اصطلاح علمیش نمیدونم چیه، هر سطون رو کشیدم تا به ۱۰۰ درصد برسه. در نتیجه هر رنگ تو هر سطون درصد همون بازه رو نشون میده.  
-واضح‌تر میگم، تو نمودار زیر، ۱۱ درصد افراد با سن ۵۰ به بالا، حقوق ۱۳ به بالا میگیرند، که با رنگ سبز پر رنگ تو ستون ۵۰ به بالا نشون داده شده.
+واضح‌تر میگم، تو نمودار زیر، ۱۱ درصد افراد با سن ۵۰ به بالا، حقوق ۱۳ به بالا میگیرند، که با رنگ سبز پر رنگ تو ستون ۵۰ به بالا نشون داده شده.  
+باز هم ساده‌تر میگم اگر رنگ‌های سبز بیشتر باشه درآمد بیشتری دارند و اگر رنگ‌های قرمز بیشتر باشه درآمد کمتری دارند.  
+نمودارهای زیر بر اساس حقوق سال ۹۷ ساخته شده.
 
 <iframe width="523" height="325.27272863230417" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1971513538&amp;format=interactive"></iframe>
 
 بیش از ۵ درصد افراد زیر ۱۸ سال بالای ۷ میلیون درآمد دارند. این میزان برای افراد ۱۸ تا ۲۲ سال به ۲ درصد نمیرسه.  
-معمولا با افزایش سن درآمد بیشتر میشه.
+معمولا با افزایش سن درآمد بیشتر میشه.  
+۶۲ درصد ۳۰ تا ۳۹ ساله‌ها زیر ۵ میلیون درآمد دارند. برای ۲۳ تا ۲۹ ساله‌ها ۸۳ درصده. پذیرشش برام سخته.  
+۴۰ سال به بالا جامعه آماری کوچیکی هست.
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1624073647&amp;format=interactive"></iframe>
 
-دیگر و علاقه‌مند به ذکر نیستم به خاطر کم بودنشون تو نمودار اورده نشده.  
+دیگر و علاقه مند به ذکر نیستم جامعه آماری کوچکی هستند.  
 سهم زنان در حقوق‌های بالاتر کمتر از مردانه. این یک مقدار مشکوک به وجود تبعیض جنسیتی هست که جلوتر بررسی میکنیم.
 
 <iframe width="523" height="342.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1016442848&amp;format=interactive"></iframe>
@@ -238,12 +242,61 @@ rating: '1'
 
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1930473743&amp;format=interactive"></iframe>
 
+۷۳ درصد افراد با ۳ تا ۷ سال سابقه کار و ۵۳ درصد افراد با ۷ تا ۱۵ سال سابقه کار زیر ۵ میلیون درآمد دارند. از نظر من این فاجعه هست.
+
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=317489320&amp;format=interactive"></iframe>
 
+گزینه‌هایی که کامل مشخص نیستند به ترتیب:‌ در حال تحصیل در دبیرستان یا پایینتر، در حال تحصیل کاردانی، در حال تحصیل در دوره لیسانس، در حال تحصیل در فوق لیسانس، در حال تحصیل در دوره دکترا.  
+در حال تحصیل رو کنار هم گذاشتم تا نمودار خواناتر بشه.  
 کسانی که در حال تحصیل هستند به وضوح حقوق کمتری میگیرند. ممکنه به کار تمام وقت هم ربط داشته باشه.  
-دیپلمه‌ها بعد از دکترها بالاترین حقوق رو میگیرند.
+دیپلمه‌ها بعد از دکترها بالاترین درآمد رو دارند.  
+سابقه کار تحصیلات و سن با هم حرکت میکنند در نتیجه با هر نمودار به تنهایی نمیشه گفت اون عامل افزایش حقوق بوده.
 
-    
+<iframe width="523" height="356.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=349418578&amp;format=interactive"></iframe>
+
+اگر شخصی کار میکنم رو فریلنسر در نظر بگیریم این نمودار نشون میده درآمد خوبی ندارند.  
+دور کاری کامل بالاترین درآمد رو دارند شاید به دلیل پروژه‌های خارجی.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1817458921&amp;format=interactive"></iframe>
+
+شاید این نمودار بیشتر نشون بده چه حوضه‌هایی درآمد بالاتری دارند.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=426805862&amp;format=interactive"></iframe>
+
+داشتن و نداشتن مدرک بین‌المللی تاثیر در سطح درآمد نداره.
+
+<iframe width="522.9999999999999" height="355.011" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1630661395&amp;format=interactive"></iframe>
+
+انتظار داشتم بیشتر از این تو سطح درآمد تاثیر داشته باشه.
+
+<iframe width="523" height="344.02200000000005" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2006746072&amp;format=interactive"></iframe>
+
+سهم کلاس فیزیکی و سایت داخلی تو درآمد بالا کم میشه.  
+سهم کتاب تو درآمد بالا بیشتر میشه.
+
+<iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=800251630&amp;format=interactive"></iframe>
+
+<iframe width="523.9999999999999" height="335.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=384084116&amp;format=interactive"></iframe>
+
+اونایی که بیشتر از ۶ ساعت کتاب میخونند درآمدشون کمتر شده.  
+چهار نمودار آخر تاثیر کمی رو حقوق رو نشون میدند.
+
+<iframe width="523" height="346.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2138071102&amp;format=interactive"></iframe>
+
+<iframe width="522.9999999999999" height="346.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1102297400&amp;format=interactive"></iframe>
+
+زبان‌های با تعداد کم رو تا جایی حذف کردم که اسکالا و ارلنگ تو لیست باقی بمونند.  
+زبان‌های با درآمد کم زیادند C++, PHP, Python, C, Matlab, Java.  
+در صدر جدول پر درآمدها هم Scala, Erlang, Groovy, Objective C, Ruby, Go.  
+میشه در کنار نمودار علایق که پایتون در صدر بود دید و اینکه جامعه دوست داره به سمت زبان‌های پر درآمد حرکت کنه؟
+
+<iframe width="523" height="371.00000000000006" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1643497236&amp;format=interactive"></iframe>
+
+<iframe width="523.0000000000002" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1746888241&amp;format=interactive"></iframe>
+
+در اینجا زبان Rust به گزینه‌های زبان‌های مورد استفاده اضافه شده، چون برخلاف نمودار قبل اینجا زیاد انتخاب شده بود.  
+این دو نمودار نشون میده کسایی که خوب پول در میارند دوست دارند چه چیزایی یاد بگیرند و برعکس. و به نظر میرسه کسایی که درآمد مناسبی ندارند همچنان دوست دارند زبان‌های ارزون یاد بگیرند و افرادی هم که درآمد خوب دارند زبان‌های گرون‌تر رو بیشتر دوست دارند.
+
 ..  
 .  
 .        
