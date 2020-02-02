@@ -297,6 +297,32 @@ rating: '1'
 در اینجا زبان Rust به گزینه‌های زبان‌های مورد استفاده اضافه شده، چون برخلاف نمودار قبل اینجا زیاد انتخاب شده بود.  
 این دو نمودار نشون میده کسایی که خوب پول در میارند دوست دارند چه چیزایی یاد بگیرند و برعکس. و به نظر میرسه کسایی که درآمد مناسبی ندارند همچنان دوست دارند زبان‌های ارزون یاد بگیرند و افرادی هم که درآمد خوب دارند زبان‌های گرون‌تر رو بیشتر دوست دارند.
 
+<iframe width="523.0000000000001" height="356.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=165699510&amp;format=interactive"></iframe>
+
+<iframe width="523.0000000000001" height="356.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=514594759&amp;format=interactive"></iframe>
+
+<iframe width="523" height="337.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1264324497&amp;format=interactive"></iframe>
+
+<iframe width="523" height="337.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=281447313&amp;format=interactive"></iframe>
+
+اونایی که مک دارند درآمدشون بیشتره؟ یا اونایی که درآمدشون بیشتره مک میخرند؟
+
+<iframe width="523" height="357.52000000000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1218899590&amp;format=interactive"></iframe>
+
+BSD کارهای مرفح.  
+چه جاهایی از ویندوز سرور ۲۰۰۳ استفاده میکنند؟
+
+<iframe width="522" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=129943290&amp;format=interactive"></iframe>
+
+ایمکسی‌ها بیشتر از ویمی‌ها پول در میارند.
+
+<iframe width="522.9999999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1708795487&amp;format=interactive"></iframe>
+
+کی فکرش رو میکرد؟
+
+<iframe width="523.0000000000001" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1494575097&amp;format=interactive"></iframe>
+
+<iframe width="523" height="445.5059999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=824666746&amp;format=interactive"></iframe>
 ..  
 .  
 .        
