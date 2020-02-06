@@ -24,7 +24,7 @@ rating: '1'
 تعداد زنان همیشه افزایشی بوده اما همچنان زیر ۱۰ درصد هستند.
 
 
-<iframe width="1204" height="591" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&amp;format=interactive"></iframe>
+<iframe width="1204" height="601" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&amp;format=interactive"></iframe>
 
 این نمودار اهلیته که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&format=interactive) کلش رو ببینید.  
 تهرانی‌ها اندکی کمتر شدند اما همچنان بیش از ۳۶ درصد هستند، خراسان رضوی و اصفهان در رتبه‌های بعدی.  
@@ -32,7 +32,7 @@ rating: '1'
 جالب میشه اگر یک نفر با توجه به جمعیت هر استان این آمار رو بهبود بده، تا بفهمیم چند درصد افراد هر استان برنامه نویس هستند.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
 
-<iframe width="1099" height="586" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=471571219&amp;format=interactive"></iframe>
+<iframe width="1099" height="596" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=471571219&amp;format=interactive"></iframe>
 
 این نمودار محل کاره که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=471571219&format=interactive) کلش رو ببینید.  
 
@@ -70,7 +70,7 @@ rating: '1'
 
 <iframe width="523.577" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=513748302&amp;format=interactive"></iframe>
 
-<iframe width="1204" height="678" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&amp;format=interactive"></iframe>
+<iframe width="1204" height="688" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&amp;format=interactive"></iframe>
 
 این نمودار زبان‌های مورد استفادست که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&format=interactive) کلش رو ببینید.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
@@ -80,7 +80,7 @@ rating: '1'
 
 بیشتر بودن نزول به سعود نشون دهنده اینه که کمتر زبان‌های مختلف همزمان با هم استفاده میشه.
 
-<iframe width="1400" height="550" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&amp;format=interactive"></iframe>
+<iframe width="1400" height="560" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&amp;format=interactive"></iframe>
 
 این نمودار زبان‌های مورد علاقست که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&format=interactive) کلش رو ببینید.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
