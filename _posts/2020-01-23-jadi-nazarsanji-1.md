@@ -129,7 +129,7 @@ rating: '1'
 
 <iframe width="523.577" height="383.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1194553463&amp;format=interactive"></iframe>
 
-گزینه‌هایی که مشخص نیست:‌ تلگرام برای کنترل پروژه، ابزارهای مدیریت پروژه مایکروسافت، ابزارهای مدیریت پروژه اتلسین.  
+گزینه‌هایی که مشخص نیست:‌ تلگرام برای کنترل پروژه - ابزارهای مدیریت پروژه مایکروسافت - ابزارهای مدیریت پروژه اتلسین.  
 از تلگرام برای مدیریت پروژه استفاده میشه! بیشتر از چیزی مثل جیرا!  
 ابزارهای مایکروسافت بیشتر از اتلسین استفاده میشه.  
 نمودار بر اساس سال ۹۷ مرطب شده.  

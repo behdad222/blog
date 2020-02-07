@@ -25,6 +25,8 @@ rating: '1'
 ۶۲ درصد ۳۰ تا ۳۹ ساله‌ها زیر ۵ میلیون درآمد دارند. برای ۲۳ تا ۲۹ ساله‌ها ۸۳ درصده. پذیرشش برام سخته.  
 ۴۰ سال به بالا جامعه آماری کوچیکی هست.
 
+<iframe width="523" height="325" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=381420697&amp;format=interactive"></iframe>
+
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1624073647&amp;format=interactive"></iframe>
 
 دیگر و علاقه مند به ذکر نیستم جامعه آماری کوچکی هستند.  
@@ -82,7 +84,7 @@ rating: '1'
 
 سهم کلاس فیزیکی و سایت داخلی تو درآمد بالا کم میشه.  
 سهم کتاب تو درآمد بالا بیشتر میشه.  
-با نگاه به نمودار تغییرات در سال‌های گذشته میبینم که کتاب و یادگیری از طریق انجام پروژه با بیشترین تاثیر تو درآمد بالاتر در ۲ سال گذشته کمتر استفاده میشه. همینطور کلاس فیزیکی و سایت‌های داخلی با بیشترین تاثیر تو درآمدهای پایین بیشتر استفاده شدند.
+با نگاه به نمودار تغییرات در سال‌های گذشته میبینم که کتاب و یادگیری از طریق انجام پروژه با بیشترین تاثیر تو درآمد بالاتر روندی نزولی تو استفاده دارند. همینطور کلاس فیزیکی و سایت‌های داخلی با بیشترین تاثیر تو درآمدهای پایین روندشون سعودیه.
 
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=800251630&amp;format=interactive"></iframe>
 
@@ -98,7 +100,8 @@ rating: '1'
 زبان‌های با تعداد کم رو تا جایی حذف کردم که اسکالا و ارلنگ تو لیست باقی بمونند.  
 زبان‌های با درآمد کم زیادند C++, PHP, Python, C, Matlab, Java.  
 در صدر جدول پر درآمدها هم Scala, Erlang, Groovy, Objective C, Ruby, Go.  
-میشه در کنار نمودار علایق که پایتون در صدر بود دید و اینکه جامعه دوست داره به سمت زبان‌های پر درآمد حرکت کنه؟
+میشه در کنار نمودار علایق که پایتون در صدر بود دید و اینکه جامعه دوست داره به سمت زبان‌های پر درآمد حرکت کنه؟  
+پایتون با ۹ درصد رشد (بیشترین) در ۴ سال گذشته جزو زبان‌های کم درآمد هست.
 
 <iframe width="523" height="371.00000000000006" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1643497236&amp;format=interactive"></iframe>
 
@@ -134,9 +137,13 @@ BSD کارهای مرفح.
 
 <iframe width="523" height="445.5059999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=824666746&amp;format=interactive"></iframe>
 
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=112583575&amp;format=interactive"></iframe>
+
+این نمودار رو به خاطر هان گذاشتم.
+
 <iframe width="523.0000000000005" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=462452921&amp;format=interactive"></iframe>
 
-اونایی که الکلی مینوشند درآمد بیشتری دارند.
+اونایی که درآمد بیشتری دارند الکلی بیشتر مینوشند.
 
 <iframe width="523" height="384.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1200589493&amp;format=interactive"></iframe>
 
@@ -146,11 +153,15 @@ BSD کارهای مرفح.
 
 نمودار جالبیه.
 
+<iframe width="522" height="392.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1647743556&amp;format=interactive"></iframe>
+
 <iframe width="523" height="458.50300000000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1928646454&amp;format=interactive"></iframe>
 
 <iframe width="522.9999999999998" height="408.50600000000003" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=172138357&amp;format=interactive"></iframe>
 
 <iframe width="523" height="408.50600000000003" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=605258046&amp;format=interactive"></iframe>
+
+بازی سازی بیشترین رشد رو در ۴ سال گذشته داشته ولی جزو کم درآمدترین‌هاست.
 
 <iframe width="523" height="475.51199999999994" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1597814418&amp;format=interactive"></iframe>
 
