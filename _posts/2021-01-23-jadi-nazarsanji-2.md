@@ -27,6 +27,9 @@ rating: '1'
 
 <iframe width="523" height="325" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=381420697&amp;format=interactive"></iframe>
 
+تو این نمودار میشه دید هر بازه درآمدی بیشتر تو کدوم دسته هستند.  
+هفت درصد کسایی که بالای ۱۳ در میارند زیر ۱۸ سال سن دارند.
+
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1624073647&amp;format=interactive"></iframe>
 
 دیگر و علاقه مند به ذکر نیستم جامعه آماری کوچکی هستند.  
@@ -55,6 +58,10 @@ rating: '1'
 
 ۷۳ درصد افراد با ۳ تا ۷ سال سابقه کار و ۵۳ درصد افراد با ۷ تا ۱۵ سال سابقه کار زیر ۵ میلیون درآمد دارند. از نظر من این فاجعه هست.
 
+<iframe width="523.9999999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1106567523&amp;format=interactive"></iframe>
+
+۱۰ درصد افراد با درآمد بالای ۱۳ سال زیر ۱ سال سابقه کار دارند.
+
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=317489320&amp;format=interactive"></iframe>
 
 گزینه‌هایی که کامل مشخص نیستند به ترتیب:‌ در حال تحصیل در دبیرستان یا پایینتر - در حال تحصیل کاردانی - در حال تحصیل در دوره لیسانس - در حال تحصیل در فوق لیسانس - در حال تحصیل در دوره دکترا.  
@@ -63,10 +70,14 @@ rating: '1'
 دیپلمه‌ها بعد از دکترها بالاترین درآمد رو دارند.  
 سابقه کار تحصیلات و سن با هم حرکت میکنند در نتیجه با هر نمودار به تنهایی نمیشه گفت اون عامل افزایش درآمد بوده.
 
+<iframe width="523.0000000000001" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1835098323&amp;format=interactive"></iframe>
+
 <iframe width="523" height="356.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=349418578&amp;format=interactive"></iframe>
 
 اگر شخصی کار میکنم رو فریلنسر در نظر بگیریم این نمودار نشون میده درآمد خوبی ندارند.  
-دور کاری کامل بالاترین درآمد رو دارند شاید به دلیل پروژه‌های خارجی.
+دور کاری کامل بالاترین درآمد رو دارند، شاید به دلیل پروژه‌های خارجی.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=887880224&amp;format=interactive"></iframe>
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1817458921&amp;format=interactive"></iframe>
 
@@ -79,6 +90,8 @@ rating: '1'
 <iframe width="522.9999999999999" height="355.011" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1630661395&amp;format=interactive"></iframe>
 
 انتظار داشتم بیشتر از این تو سطح درآمد تاثیر داشته باشه.
+
+<iframe width="522" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=215782523&amp;format=interactive"></iframe>
 
 <iframe width="523" height="344.02200000000005" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2006746072&amp;format=interactive"></iframe>
 
