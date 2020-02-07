@@ -99,12 +99,18 @@ rating: '1'
 سهم کتاب تو درآمد بالا بیشتر میشه.  
 با نگاه به نمودار تغییرات در سال‌های گذشته میبینم که کتاب و یادگیری از طریق انجام پروژه با بیشترین تاثیر تو درآمد بالاتر روندی نزولی تو استفاده دارند. همینطور کلاس فیزیکی و سایت‌های داخلی با بیشترین تاثیر تو درآمدهای پایین روندشون سعودیه.
 
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=440814875&amp;format=interactive"></iframe>
+
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=800251630&amp;format=interactive"></iframe>
+
+<iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1529051561&amp;format=interactive"></iframe>
 
 <iframe width="523.9999999999999" height="335.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=384084116&amp;format=interactive"></iframe>
 
 اونایی که بیشتر از ۶ ساعت کتاب میخونند درآمدشون کمتر شده.  
 چهار نمودار آخر تاثیر کمی رو درآمد رو نشون میدند.
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=109049913&amp;format=interactive"></iframe>
 
 <iframe width="523" height="346.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2138071102&amp;format=interactive"></iframe>
 
@@ -115,6 +121,10 @@ rating: '1'
 در صدر جدول پر درآمدها هم Scala, Erlang, Groovy, Objective C, Ruby, Go.  
 میشه در کنار نمودار علایق که پایتون در صدر بود دید و اینکه جامعه دوست داره به سمت زبان‌های پر درآمد حرکت کنه؟  
 پایتون با ۹ درصد رشد (بیشترین) در ۴ سال گذشته جزو زبان‌های کم درآمد هست.
+
+<iframe width="523" height="384.5059999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1090665845&amp;format=interactive"></iframe>
+
+تو این نمودار زبان‌های پر استفاده آورده شدند.
 
 <iframe width="523" height="371.00000000000006" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1643497236&amp;format=interactive"></iframe>
 
@@ -127,11 +137,17 @@ rating: '1'
 
 <iframe width="523.0000000000001" height="356.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=514594759&amp;format=interactive"></iframe>
 
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1521388060&amp;format=interactive"></iframe>
+
+در این نمودار دیتابیس‌های پر استفاده آورده شدند.
+
 <iframe width="523" height="337.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1264324497&amp;format=interactive"></iframe>
 
 <iframe width="523" height="337.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=281447313&amp;format=interactive"></iframe>
 
 اونایی که مک دارند درآمدشون بیشتره؟ یا اونایی که درآمدشون بیشتره مک میخرند؟
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1239876124&amp;format=interactive"></iframe>
 
 <iframe width="523" height="357.52000000000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1218899590&amp;format=interactive"></iframe>
 
@@ -146,9 +162,19 @@ BSD کارهای مرفح.
 
 کی فکرش رو میکرد؟
 
+<iframe width="522" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1315043405&amp;format=interactive"></iframe>
+
 <iframe width="523.0000000000001" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1494575097&amp;format=interactive"></iframe>
 
+<iframe width="523.0000000000001" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=138280951&amp;format=interactive"></iframe>
+
+به نظر میرسه اونایی که درآمدشون بیشتره هم زمان از تکنولوژی‌های بیشتری استفاده میکنند.
+
 <iframe width="523" height="445.5059999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=824666746&amp;format=interactive"></iframe>
+
+<iframe width="523" height="388.00899999999996" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1649164483&amp;format=interactive"></iframe>
+
+تو این نمودار سرویس‌های کم استفاده رو به همراه استک اورفلو (حدود ۸۰ درصد استفاده میشد) حذف کردم.
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=112583575&amp;format=interactive"></iframe>
 
@@ -162,13 +188,27 @@ BSD کارهای مرفح.
 
 تاثیر جنسیت رو درآمد مشخصه.
 
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=874017822&amp;format=interactive"></iframe>
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=111292592&amp;format=interactive"></iframe>
+
+اگر ۲ نمودار قبلی رو با هم منتشر میکردم گیج کننده میشد و اگر کم استفاده‌ها رو توش نمیزاشتم قسمت مربوط به زنان حذف میشد در نتیجه به ۲ بخش تقسیم کردم.
+
 <iframe width="522.9999999999998" height="403.51700000000005" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1749348549&amp;format=interactive"></iframe>
 
 نمودار جالبیه.
 
+<iframe width="522" height="434.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1915665106&amp;format=interactive"></iframe>
+
+<iframe width="520" height="434.50599999999986" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=936909642&amp;format=interactive"></iframe>
+
+اینجا هم نمودارها رو جدا کردم تا واضح‌تر بشه. هواستون به تفاوت درصدها باشه.
+
 <iframe width="522" height="392.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1647743556&amp;format=interactive"></iframe>
 
 <iframe width="523" height="458.50300000000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1928646454&amp;format=interactive"></iframe>
+
+<iframe width="523.0000000000002" height="392.52099999999996" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1929513122&amp;format=interactive"></iframe>
 
 <iframe width="522.9999999999998" height="408.50600000000003" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=172138357&amp;format=interactive"></iframe>
 
@@ -176,9 +216,23 @@ BSD کارهای مرفح.
 
 بازی سازی بیشترین رشد رو در ۴ سال گذشته داشته ولی جزو کم درآمدترین‌هاست.
 
+<iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=348237865&amp;format=interactive"></iframe>
+
+<iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=489575591&amp;format=interactive"></iframe>
+
+۲۵۶ مدیر داریم که زیر ۵ تومن درآمد دارند.
+
+<iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=975902478&amp;format=interactive"></iframe>
+
+این نمودارها هم چون مهم بود به ۳ قسمت تقسیم کردم و کامل گذاشتم.
+
 <iframe width="523" height="475.51199999999994" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1597814418&amp;format=interactive"></iframe>
 
 <iframe width="523" height="482" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1457820692&amp;format=interactive"></iframe>
+
+<iframe width="522" height="457.006" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=108120950&amp;format=interactive"></iframe>
+
+بیش از ۴ درصد در شرکت‌های خارجی کار میکنند که درآمدشون کمتر از ۳.۵ میلیون هست.
 
 <iframe width="523" height="349.509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1806963727&amp;format=interactive"></iframe>
 
@@ -187,9 +241,13 @@ BSD کارهای مرفح.
 این نمودار مهمیه.  
 حتی کسایی هم که رضایت کامل از شغلشون دارند ۶۲ درصدشون درآمد زیر ۳.۵ دارند.
 
+<iframe width="521.9999999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=923535556&amp;format=interactive"></iframe>
+
+#todo کسایی که درآمد زیر ۳.۵ سابقه کار بالاتر و رضایت شغلی ۴ به بالا
+
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=920202049&amp;format=interactive"></iframe>
 
-
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1210556981&amp;format=interactive"></iframe>
 
 
 
@@ -203,3 +261,5 @@ BSD کارهای مرفح.
 یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالا به درستی نظر سنجی رو پر نکردند و خطا رو بالا میبرند. که انجام نشده.
 
 برخی از این نمودارها ممکنه باعث گمراهی بشه. باید حواسمون باشه نمودارها الزاما راست نمیگند. به طور مثال با افزایش سن، سابقه کار و تحصیلات درآمد بالا میره. ولی آیا همشون به صورت مستقیم تاثیر گذار هستند؟ یا بعضی کلا تو درآمد تاثیری ندارند. در صورتی که که جامعه آماری به اندازه کافی بزرگ باشه میشه این موارد رو بررسی کرد.
+
+برنامه نویس‌هایی که از سورس کنترل استفاده نمیکنند رو در بیاریم #todo
