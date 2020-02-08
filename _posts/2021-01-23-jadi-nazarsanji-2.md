@@ -32,7 +32,7 @@ rating: '1'
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1624073647&amp;format=interactive"></iframe>
 
-دیگر و علاقه مند به ذکر نیستم جامعه آماری کوچکی هستند.  
+دیگر و علاقه‌مند به ذکر نیستم جامعه آماری کوچکی هستند.  
 سهم زنان در درآمدهای بالاتر کمتر از مردانه. این یک مقدار مشکوک به وجود تبعیض جنسیتی هست که جلوتر بررسی میکنیم.
 
 <iframe width="523" height="342.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1016442848&amp;format=interactive"></iframe>
@@ -72,6 +72,8 @@ rating: '1'
 
 <iframe width="523.0000000000001" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1835098323&amp;format=interactive"></iframe>
 
+۱۵ درصد کسایی که درآمد بالای ۱۳ دارند دیپلم به پایین هستند.
+
 <iframe width="523" height="356.009" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=349418578&amp;format=interactive"></iframe>
 
 اگر شخصی کار میکنم رو فریلنسر در نظر بگیریم این نمودار نشون میده درآمد خوبی ندارند.  
@@ -103,12 +105,14 @@ rating: '1'
 
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=800251630&amp;format=interactive"></iframe>
 
+کمی ارتباط بینشون دیده میشه. ولی پروژه غیر کاری منجر به افزایش درآمد میشه؟ یا اگر درآمد به اندازه کافی باشه میشه زمان برای پروژه غیر کاری هم گذاشت؟
+
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1529051561&amp;format=interactive"></iframe>
 
 <iframe width="523.9999999999999" height="335.506" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=384084116&amp;format=interactive"></iframe>
 
 اونایی که بیشتر از ۶ ساعت کتاب میخونند درآمدشون کمتر شده.  
-چهار نمودار آخر تاثیر کمی رو درآمد رو نشون میدند.
+چهار مورد آخر تاثیری هرچند کم رو درآمد رو نشون میدند.
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=109049913&amp;format=interactive"></iframe>
 
@@ -120,11 +124,12 @@ rating: '1'
 زبان‌های با درآمد کم زیادند C++, PHP, Python, C, Matlab, Java.  
 در صدر جدول پر درآمدها هم Scala, Erlang, Groovy, Objective C, Ruby, Go.  
 میشه در کنار نمودار علایق که پایتون در صدر بود دید و اینکه جامعه دوست داره به سمت زبان‌های پر درآمد حرکت کنه؟  
-پایتون با ۹ درصد رشد (بیشترین) در ۴ سال گذشته جزو زبان‌های کم درآمد هست.
+پایتون با ۹ درصد رشد (بیشترین) در ۴ سال گذشته، جزو زبان‌های کم درآمد هست.
 
 <iframe width="523" height="384.5059999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1090665845&amp;format=interactive"></iframe>
 
-تو این نمودار زبان‌های پر استفاده آورده شدند.
+تو این نمودار زبان‌های پر استفاده آورده شدند.  
+دقت داشته باشید با اینکه Js جزو زبان‌های کم درآمد بود ولی ۵۶ درصد افرادی که بالای ۱۳ درآمد دارند Js کار میکنند. هر نمودار داره بخشی از دیتا رو نشون میده، معنای این‌هارو با هم اشتباه نگیرید.
 
 <iframe width="523" height="371.00000000000006" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1643497236&amp;format=interactive"></iframe>
 
@@ -186,7 +191,7 @@ BSD کارهای مرفح.
 
 <iframe width="523" height="384.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1200589493&amp;format=interactive"></iframe>
 
-تاثیر جنسیت رو درآمد مشخصه.
+مشخصه زنان درآمد کمتری دارند.
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=874017822&amp;format=interactive"></iframe>
 
@@ -214,13 +219,12 @@ BSD کارهای مرفح.
 
 <iframe width="523" height="408.50600000000003" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=605258046&amp;format=interactive"></iframe>
 
-بازی سازی بیشترین رشد رو در ۴ سال گذشته داشته ولی جزو کم درآمدترین‌هاست.
+بازی سازی بیشترین رشد رو در ۴ سال گذشته داشته ولی جزو کم درآمدترین‌هاست.  
+۴۰ درصد مدیران زیر ۳.۵ درآمد دارند.
 
 <iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=348237865&amp;format=interactive"></iframe>
 
 <iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=489575591&amp;format=interactive"></iframe>
-
-۲۵۶ مدیر داریم که زیر ۵ تومن درآمد دارند.
 
 <iframe width="523.5909015245675" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=975902478&amp;format=interactive"></iframe>
 
@@ -249,7 +253,10 @@ BSD کارهای مرفح.
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1210556981&amp;format=interactive"></iframe>
 
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1432151932&amp;format=interactive"></iframe>
 
+این یه نمودار ترکیبی هست.  
+۲۷ درصد کسایی که حداقل ۷ سال سابقه کار، بالای ۲۵ سال سن و با حداقل مدرک لیسانس درآمد زیر ۳.۵ میلیون تومن دارند.
 
 ..  
 .  
@@ -258,6 +265,8 @@ BSD کارهای مرفح.
 .          
 .
 .
+مراقب باشید نمودارها گولتون نزنه
+
 یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالا به درستی نظر سنجی رو پر نکردند و خطا رو بالا میبرند. که انجام نشده.
 
 برخی از این نمودارها ممکنه باعث گمراهی بشه. باید حواسمون باشه نمودارها الزاما راست نمیگند. به طور مثال با افزایش سن، سابقه کار و تحصیلات درآمد بالا میره. ولی آیا همشون به صورت مستقیم تاثیر گذار هستند؟ یا بعضی کلا تو درآمد تاثیری ندارند. در صورتی که که جامعه آماری به اندازه کافی بزرگ باشه میشه این موارد رو بررسی کرد.
