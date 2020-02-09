@@ -52,7 +52,11 @@ rating: '1'
 <iframe width="523" height="331.5229999999999" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=525668708&amp;format=interactive"></iframe>
 
 نمودار کامل رو میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=268040406&format=interactive) ببینید.  
-واضحه که سطح درآمد تو تهران با اختلاف بیشتره ولی آیا به کسانی که تهرانی نیستند ولی تو تهران کار میکنند درآمد کمتری پرداخت میشه؟ #todo
+واضحه که سطح درآمد تو تهران با اختلاف بیشتره ولی آیا به کسانی که تهرانی نیستند ولی تو تهران کار میکنند حقوق کمتری پرداخت میشه؟
+
+<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=24907378&amp;format=interactive"></iframe>
+
+این نمودار درآمد کسانی رو نشون میده که بچه خراسان رضوی هستند اما در تهران کار میکنند. ۵۵ نفر چنین شرایطی رو دارند که برای بررسی دقیق‌تر کافی نیست. تا همینجا فرضیه قبلی رو تقویت میکنه.
 
 <iframe width="524" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1930473743&amp;format=interactive"></iframe>
 
