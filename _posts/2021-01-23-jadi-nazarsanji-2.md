@@ -247,8 +247,6 @@ BSD کارهای مرفح.
 
 <iframe width="521.9999999999999" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=923535556&amp;format=interactive"></iframe>
 
-#todo کسایی که درآمد زیر ۳.۵ سابقه کار بالاتر و رضایت شغلی ۴ به بالا
-
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=920202049&amp;format=interactive"></iframe>
 
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1210556981&amp;format=interactive"></iframe>
@@ -256,7 +254,9 @@ BSD کارهای مرفح.
 <iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1432151932&amp;format=interactive"></iframe>
 
 این یه نمودار ترکیبی هست.  
-۲۷ درصد کسایی که حداقل ۷ سال سابقه کار، بالای ۲۵ سال سن و با حداقل مدرک لیسانس درآمد زیر ۳.۵ میلیون تومن دارند.
+۲۷ درصد کسایی که حداقل ۷ سال سابقه کار، بالای ۲۵ سال سن و با حداقل مدرک لیسانس (به جز در حال تحصیل) دارند درآمدشون زیر ۳.۵ میلیون تومنه.
+
+<iframe width="521" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=427555778&amp;format=interactive"></iframe>
 
 ..  
 .  
@@ -270,5 +270,3 @@ BSD کارهای مرفح.
 یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالا به درستی نظر سنجی رو پر نکردند و خطا رو بالا میبرند. که انجام نشده.
 
 برخی از این نمودارها ممکنه باعث گمراهی بشه. باید حواسمون باشه نمودارها الزاما راست نمیگند. به طور مثال با افزایش سن، سابقه کار و تحصیلات درآمد بالا میره. ولی آیا همشون به صورت مستقیم تاثیر گذار هستند؟ یا بعضی کلا تو درآمد تاثیری ندارند. در صورتی که که جامعه آماری به اندازه کافی بزرگ باشه میشه این موارد رو بررسی کرد.
-
-برنامه نویس‌هایی که از سورس کنترل استفاده نمیکنند رو در بیاریم #todo

@@ -120,7 +120,7 @@ rating: '1'
 
 <iframe width="523" height="352.50300000000004" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1857625323&amp;format=interactive"></iframe>
 
-<iframe width="523" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=165691508&amp;format=interactive"></iframe>
+<iframe width="523" height="413" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=165691508&amp;format=interactive"></iframe>
 
 این نمودار نشون میده اگر شرایط کاری شبیه به هم باشه چه تفاوتی بین درآمد زنان و مردان وجود داره. اما یه مشکل بزرگ هست، انقدر شرط‌ها زیاده که جامعه آماری خیلی کوچیک شده.
 

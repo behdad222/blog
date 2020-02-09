@@ -74,6 +74,7 @@ rating: '1'
 
 این نمودار زبان‌های مورد استفادست که کلش تو این صفحه جا نمیشه، میتونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&format=interactive) کلش رو ببینید.  
 نمودار بر اساس سال ۹۷ مرطب شده.  
+کسایی گزینه برنامه نویسی نمیکنم رو به همراه بقیه گزینه‌ها انتخاب کردند. نمی‌دونم یعنی چی.  
 بخش زیادی از اقبال به کاتلین به خاطر ساپورت رسمی اندروید ازش هست.  
 
 <iframe width="523.5769999999999" height="321.509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2078216095&amp;format=interactive"></iframe>
@@ -122,6 +123,7 @@ rating: '1'
 <iframe width="523.5769999999999" height="333.509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1156741810&amp;format=interactive"></iframe>
 
 نمودار بر اساس سال ۹۷ مرطب شده.  
+۴۴۰ توسعه دهنده داریم که از سورس کنترل استفاده نمیکنند برابر با ۱۱ درصد توسعه دهنده‌ها.
 
 <iframe width="523.5769999999999" height="362" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=881203710&amp;format=interactive"></iframe>
 
