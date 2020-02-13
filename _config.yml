@@ -34,13 +34,13 @@ collections:
 # Set to `static` or `disqus`.
 comments:
   enabled: true
-  type: static
+  type: disqus
   static:
     avatar:
       visible: true
   disqus:
     # Used if the `comment_system` is set to `disqus`
-    shortname: ''
+    shortname: 'myblog-cce2t7aesu'
 
 # Setting this will add the analytics snipped.
 #google_analytics_id:
