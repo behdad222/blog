@@ -43,7 +43,7 @@ comments:
     shortname: 'blog-poytrtqpdt'
 
 # Setting this will add the analytics snipped.
-#google_analytics_id:
+google_analytics_id: UA-144981789-1
 
 # A unique identifier for your website's feed. If not set
 # the url of the website will be used instead. Using URL is
