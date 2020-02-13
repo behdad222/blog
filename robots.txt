@@ -1,1 +1,1 @@
-Sitemap: http://behdad222.github.io/MD-Test-Blog/sitemap.xml
+Sitemap: http://behdad222.github.io/blog/sitemap.xml

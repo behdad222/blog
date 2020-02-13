@@ -1,4 +1,4 @@
-var disqus_shortname = 'myblog-cce2t7aesu';
+var disqus_shortname = 'blog-poytrtqpdt';
 
 if (typeof ds_loaded == "undefined") {
     var ds_loaded = false; //To track loading only once on a page.

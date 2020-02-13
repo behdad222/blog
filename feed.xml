@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xml" href="/MD-Test-Blog/feed.xsl" ?>
+<?xml-stylesheet type="text/xml" href="/blog/feed.xsl" ?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa" >
 
-	<link rel="alternate" type="text/html" href="http://behdad222.github.io/MD-Test-Blog/" hreflang="fa" />
-	<link rel="self" type="application/atom+xml" href="http://behdad222.github.io/MD-Test-Blog/feed.xml" />
+	<link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/" hreflang="fa" />
+	<link rel="self" type="application/atom+xml" href="http://behdad222.github.io/blog/feed.xml" />
 
-  <id>http://behdad222.github.io/MD-Test-Blog/</id>
-  <title type="text" xml:lang="fa">بلاگ تستی</title>
-  <updated>2020-02-13T19:35:45Z</updated>
+  <id>http://behdad222.github.io/blog/</id>
+  <title type="text" xml:lang="fa">بلاگ بهداد</title>
+  <updated>2020-02-13T22:25:02Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -20,11 +20,11 @@
   
   <entry>
     
-    <id>http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-3.html</id>
+    <id>http://behdad222.github.io/blog/jadi-nazarsanji-3.html</id>
     
     <title>از نظرسنجی جادی  چه چیزهای فهمیدم ۳</title>
-    <updated>2020-01-23T19:54:11Z</updated>
-    <link rel="alternate" type="text/html" href="http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-3.html"/>
+    <updated>2020-01-23T22:24:11Z</updated>
+    <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-3.html"/>
     
     <content type="html">
         <![CDATA[<div dir="rtl"><h3 id="جنسیت">جنسیت</h3>
@@ -155,11 +155,11 @@
   
   <entry>
     
-    <id>http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-2.html</id>
+    <id>http://behdad222.github.io/blog/jadi-nazarsanji-2.html</id>
     
     <title>از نظرسنجی جادی  چه چیزهای فهمیدم ۲</title>
-    <updated>2020-01-23T19:54:11Z</updated>
-    <link rel="alternate" type="text/html" href="http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-2.html"/>
+    <updated>2020-01-23T22:24:11Z</updated>
+    <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-2.html"/>
     
     <content type="html">
         <![CDATA[<div dir="rtl"><h3 id="تأثیر-عوامل-مختلف-رو-درآمد">تأثیر عوامل مختلف رو درآمد</h3>
@@ -433,11 +433,11 @@
   
   <entry>
     
-    <id>http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-1.html</id>
+    <id>http://behdad222.github.io/blog/jadi-nazarsanji-1.html</id>
     
     <title>از نظرسنجی جادی  چه چیزهای فهمیدم ۱</title>
-    <updated>2020-01-23T19:54:11Z</updated>
-    <link rel="alternate" type="text/html" href="http://behdad222.github.io/MD-Test-Blog/jadi-nazarsanji-1.html"/>
+    <updated>2020-01-23T22:24:11Z</updated>
+    <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-1.html"/>
     
     <content type="html">
         <![CDATA[<div dir="rtl"><p>مدت‌ها منتظر بودم تا یکی که دستی در آتش دارد اطلاعات بیشتری از نظر سنجی‌ای که جادی هر سال می‌کنه در بیاره، ولی چیزی ندیدم. در نتیجه با سواد ناقص خودم دست به کار شدم ببینم چی از توش می‌شه فهمید.<br />
