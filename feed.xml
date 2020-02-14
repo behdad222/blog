@@ -8,7 +8,7 @@
 
   <id>http://behdad222.github.io/blog/</id>
   <title type="text" xml:lang="fa">بلاگ بهداد</title>
-  <updated>2020-02-14T23:26:50Z</updated>
+  <updated>2020-02-15T02:00:15Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -22,7 +22,7 @@
     
     <id>http://behdad222.github.io/blog/jadi-nazarsanji-3.html</id>
     
-    <title>از نظرسنجی جادی  چه چیزهای فهمیدم بخش جنسیت</title>
+    <title>از نظرسنجی جادی چه چیزهای فهمیدم بخش جنسیت</title>
     <updated>2020-02-14T11:58:11Z</updated>
     <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-3.html"/>
     
@@ -166,7 +166,7 @@
     
     <id>http://behdad222.github.io/blog/jadi-nazarsanji-2.html</id>
     
-    <title>از نظرسنجی جادی  چه چیزهای فهمیدم بخش درآمد</title>
+    <title>از نظرسنجی جادی چه چیزهای فهمیدم بخش درآمد</title>
     <updated>2020-02-14T11:56:11Z</updated>
     <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-2.html"/>
     
@@ -494,8 +494,8 @@
 
 <p>هدف اصلی من از نوشتن این مطلب و کار رو این داده‌ها بهبود این شرایطه.</p>
 
-<p>قسمت‌های دیگه این بررسی رو می‌تونید از این لینک‌ها ببینید.<br />
-<a href="/blog/jadi-nazarsanji-1.html">بخش اول بررسی روندها</a><br />
+<h3 id="قسمتهای-دیگه-این-بررسی-رو-میتونید-از-لینکهای-زیر-ببینید">قسمت‌های دیگه این بررسی رو می‌تونید از لینک‌های زیر ببینید.</h3>
+<p><a href="/blog/jadi-nazarsanji-1.html">بخش اول بررسی روندها</a><br />
 <a href="/blog/jadi-nazarsanji-3.html">بخش سوم بررسی تاثیر جنسیت</a></p>
 </div>]]>
     </content>
@@ -506,7 +506,7 @@
     
     <id>http://behdad222.github.io/blog/jadi-nazarsanji-1.html</id>
     
-    <title>از نظرسنجی جادی  چه چیزهای فهمیدم</title>
+    <title>از نظرسنجی جادی چه چیزهای فهمیدم</title>
     <updated>2020-02-14T11:50:11Z</updated>
     <link rel="alternate" type="text/html" href="http://behdad222.github.io/blog/jadi-nazarsanji-1.html"/>
     
@@ -710,8 +710,8 @@
 
 <p>یه سری موارد رو بهتر بود انجام بدیم، مثلا اون‌هایی که تو جواب‌هاشون تناقض وجود داره. این افراد احتمالاً به درستی نظرسنجی رو پر نکردند و خطا رو بالا بردند، که انجام نشده.</p>
 
-<p>قسمت‌های دیگه این بررسی رو می‌تونید از این لینک‌ها ببینید.<br />
-<a href="/blog/jadi-nazarsanji-2.html">بخش دوم بررسی درآمد</a><br />
+<h3 id="یادتون-نره-قسمتهای-دیگه-این-بررسی-رو-میتونید-از-لینکهای-زیر-ببینید">یادتون نره، قسمت‌های دیگه این بررسی رو می‌تونید از لینک‌های زیر ببینید.</h3>
+<p><a href="/blog/jadi-nazarsanji-2.html">بخش دوم بررسی درآمد</a><br />
 <a href="/blog/jadi-nazarsanji-3.html">بخش سوم بررسی تاثیر جنسیت</a></p>
 </div>]]>
     </content>
