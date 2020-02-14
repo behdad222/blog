@@ -1,7 +1,6 @@
 ---
-title: از نظرسنجی جادی  چه چیزهای فهمیدم ۳
-date: 2020-01-23T18:54:11.259Z
-thumbnail: /assets/uploads/dirtybike.jpg
+title: از نظرسنجی جادی  چه چیزهای فهمیدم بخش جنسیت
+date: 2020-02-14T8:28:11.259Z
 rating: '1'
 ---
 
