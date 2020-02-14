@@ -6,8 +6,8 @@ rating: '1'
 
 ## جنسیت
 یه مورد مهم دیگه که به نظرم باید بررسی شه جنسیت هست.  
-همچنین سعی می‌کنیم با مقایسه عوامل تأثیرگذار در درآمد بررسی کنیم آیا واقعاً تبعیض جنسیتی تو درآمد وجود داره یا نه.  
-قسمت‌های دیگه این بررسی رو میتونید از این لینک‌ها ببینید. [بخش اول](/blog/jadi-nazarsanji-1.html) - [بخش دوم](/blog/jadi-nazarsanji-2.html)
+همچنین سعی می‌کنم با مقایسه عوامل تأثیرگذار در درآمد بررسی کنیم آیا واقعاً تبعیض جنسیتی تو درآمد وجود داره یا نه.  
+قسمت‌های دیگه این بررسی رو می‌تونید از این لینک‌ها ببینید. [بخش اول بررسی روندها](/blog/jadi-nazarsanji-1.html) - [بخش دوم بررسی درآمد](/blog/jadi-nazarsanji-2.html)
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1144104937&amp;format=interactive"></iframe>
 
@@ -34,13 +34,17 @@ rating: '1'
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=874233932&amp;format=interactive"></iframe>
 
+یه سوالی داشتم که آیا «دیگر» برای کار ثابت با مشکل مواجه میشه؟ یا بیشتر به سمت دور کاری و فریلنسری میرند؟ نمی‌تونم از این نمودار نتیجه بگیرم.
+
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1055834535&amp;format=interactive"></iframe>
+
+«دیگر» به نسبت بقیه بیشتر مدرک گرفته.
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2136537413&amp;format=interactive"></iframe>
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=962320818&amp;format=interactive"></iframe>
 
-زمان صرف شده برای یادگیری تکنولوژی جدید اندکی رو افزایش درآمد تأثیر داشت. اینجا میبینیم با افزایش زمان حضور زنان به نسبت مردان کمتر میشه.
+زمان صرف شده برای یادگیری تکنولوژی جدید اندکی رو افزایش درآمد تأثیر داشت. اینجا می‌بینیم با افزایش زمان حضور زنان به نسبت مردان کمتر میشه.
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=895361373&amp;format=interactive"></iframe>
 
@@ -125,4 +129,8 @@ rating: '1'
 این نمودار نشون میده اگر شرایط کاری شبیه به هم باشه چه تفاوتی بین درآمد زنان و مردان وجود داره. اما یه مشکل بزرگ هست، انقدر شرط‌ها زیاده که جامعه آماری خیلی کوچیک شده.
 
 این نمودارها ممکنه گیج کننده باشه مثلا دیدیم شرکت‌های بزرگ درآمد توشون بیشتره و زنان هم توش بیشترند اما شرکت‌های بزرگ بخش کوچیکی از جامعه آماری بودند.  
-برداشت من از این بررسی‌ها اینه که اگر خوشبینانه نگاه کنیم تفاوت بین درآمد زنان و مردان به نظر نمی‌رسه در درجه اول به تبعیض جنسیتی ارتباط داشته باشه. هرچند که ممکنه اشتباه کرده باشم.
+برداشت من از این بررسی‌ها اینه که اگر خوشبینانه نگاه کنیم تفاوت بین درآمد زنان و مردان به نظر نمی‌رسه در درجه اول به تبعیض جنسیتی ارتباط داشته باشه. هرچند که ممکنه اشتباه کرده باشم.  
+
+قسمت‌های دیگه این بررسی رو می‌تونید از این لینک‌ها ببینید.  
+[بخش اول بررسی روندها](/blog/jadi-nazarsanji-1.html)  
+[بخش دوم بررسی درآمد](/blog/jadi-nazarsanji-2.html)
