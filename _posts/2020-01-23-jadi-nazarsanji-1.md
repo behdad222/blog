@@ -6,7 +6,8 @@ rating: '1'
 ---
 مدت‌ها منتظر بودم تا یکی که دستی در آتش دارد اطلاعات بیشتری از نظر سنجی‌ای که جادی هر سال می‌کنه در بیاره، ولی چیزی ندیدم. در نتیجه با سواد ناقص خودم دست به کار شدم ببینم چی از توش می‌شه فهمید.  
 اینجا سعی می‌کنم نمودارهای مهم‌تری که وجود داره رو بذارم ولی اطلاعات و نمودارهای بیشتر رو می‌تونید از [اینجا](https://docs.google.com/spreadsheets/d/14UBKqp9XQy_N2sOHLGe6EKcgoOwg8aPEiYJrlGhkrpI/edit?usp=sharing) در گوگل درایو ببینید.  
-نمودارها کوچک شدند تا با عرض بلاگ هماهنگ شود. پیشنهاد می‌دم زوم کنید و بعد ببینید.
+نمودارها کوچک شدند تا با عرض بلاگ هماهنگ شود. پیشنهاد می‌دم زوم کنید و بعد ببینید.  
+تغییرات داده‌ها رو در طول ۴ دوره گذشته در همین پست بررسی کردیم. از نظر درآمد در این پست برسی کردیم. و از نظر جنسیت در این پست.
 
 ### تغییرات در طول ۴ سال گذشته
 در ابتدا ببینیم در طول ۴ دوره قبلی نظرسنجی چه تغییراتی رخ داده و چه روندهایی رو میشه توش دید.
@@ -47,7 +48,8 @@ rating: '1'
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=867948471&amp;format=interactive"></iframe>
 
 نمودار بر اساس فراوانی سال ۹۷ مرتب شده.  
-به نظر میرسه فریلنسری و ریموت داره بیشتر میشه.
+به نظر میرسه فریلنسری و ریموت داره بیشتر میشه.  
+افرادی هم هستند که علاوه بر کار تمام وقتشون پروژه هم میگیرند یا ریموت هم کار میکنند. نمی‌دونم این افراد چطور گزینه‌ها رو انتخاب کردند.
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1182020584&amp;format=interactive"></iframe>
 
