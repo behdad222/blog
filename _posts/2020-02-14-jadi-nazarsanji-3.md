@@ -7,7 +7,8 @@ rating: '1'
 
 ### جنسیت
 یه مورد مهم دیگه که به نظرم باید بررسی شه جنسیت هست.  
-همچنین سعی می‌کنیم با مقایسه عوامل تأثیرگذار در درآمد بررسی کنیم آیا واقعاً تبعیض جنسیتی تو درآمد وجود داره یا نه.
+همچنین سعی می‌کنیم با مقایسه عوامل تأثیرگذار در درآمد بررسی کنیم آیا واقعاً تبعیض جنسیتی تو درآمد وجود داره یا نه.  
+قسمت‌های دیگه این بررسی رو میتونید از این لینک‌ها ببینید. [بخش اول](/jadi-nazarsanji-1.html) - [بخش دوم](/jadi-nazarsanji-2.html)
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1144104937&amp;format=interactive"></iframe>
 
