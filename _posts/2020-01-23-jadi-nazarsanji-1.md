@@ -24,7 +24,7 @@ rating: '1'
 تعداد زنان همیشه افزایشی بوده اما همچنان زیر ۱۰ درصد هستند.
 
 
-<iframe width="1204" height="601" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&amp;format=interactive"></iframe>
+<iframe width="1204" height="605" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&amp;format=interactive"></iframe>
 
 این نمودار اهلیته که کلش تو این صفحه جا نمیشه، می‌تونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=2118781929&format=interactive) کلش رو ببینید.  
 نمودار بر اساس فراوانی سال ۹۷ مرتب شده.  
@@ -69,7 +69,7 @@ rating: '1'
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=513748302&amp;format=interactive"></iframe>
 
-<iframe width="1204" height="688" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&amp;format=interactive"></iframe>
+<iframe width="1204" height="694" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&amp;format=interactive"></iframe>
 
 این نمودار زبان‌های مورد استفاده‌ست که کلش تو این صفحه جا نمیشه، می‌تونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=127190878&format=interactive) کلش رو ببینید.  
 نمودار بر اساس فراوانی سال ۹۷ مرتب شده.  
@@ -80,7 +80,7 @@ rating: '1'
 
 بیشتر بودن نزول به صعود نشون‌دهنده اینه که در سال ۹۷ نسبت به سال ۹۴ کمتر زبان‌های مختلف همزمان با هم استفاده میشه.
 
-<iframe width="1400" height="560" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&amp;format=interactive"></iframe>
+<iframe width="1400" height="566" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&amp;format=interactive"></iframe>
 
 این نمودار زبان‌های مورد علاقه‌ست که کلش تو این صفحه جا نمیشه، می‌تونید از [اینجا](https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=266038473&format=interactive) کلش رو ببینید.  
 نمودار بر اساس فراوانی سال ۹۷ مرتب شده.
@@ -176,7 +176,6 @@ rating: '1'
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1946755399&amp;format=interactive"></iframe>
 
-گزینه‌هایی که کامل مشخص نیست:‌ شرکت‌های ارائه‌دهنده سرویس‌های مختلف - تولید مستقل محصول و فروش در سایت‌ها و پلتفرمها - بخش آی‌تی شرکت‌های غیر نرم‌افزاری (مانند مخابراتی‌ها، بانک‌ها، …) - شرکت های پشتیبانی و دیگر خدمات نرم‌افزار.  
 نمودار بر اساس فراوانی سال ۹۷ مرتب شده.
 
 <iframe width="700" height="385" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThXXntwMJ6c6SHotTBHChPl-Jp2_VOIiXcIKXta_a1dy43oYS05gBBUT2DgHI1oEOAcsnKSlj7JN4u/pubchart?oid=1298018021&amp;format=interactive"></iframe>
